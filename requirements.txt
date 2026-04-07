@@ -1,0 +1,19 @@
+# Core AI Framework
+torch>=2.0.0
+torchvision
+timm>=0.9.0
+
+# Image Processing
+opencv-python
+pillow
+numpy<2.0.0
+
+# Optimization & Deployment
+onnx
+onnxruntime
+onnxruntime-tools
+
+# Data & Metrics
+pandas
+scikit-learn
+matplotlib

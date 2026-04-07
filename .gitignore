@@ -1,0 +1,20 @@
+# Python Environment
+retina/
+venv/
+__pycache__/
+*.pyc
+
+# Dataset (Too large for Git)
+data/
+*.png
+*.jpg
+*.csv
+
+# Model Weights
+weights/
+*.pth
+*.onnx
+
+# System files
+.DS_Store
+.ipynb_checkpoints/
